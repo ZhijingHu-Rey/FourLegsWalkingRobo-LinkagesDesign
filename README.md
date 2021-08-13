@@ -1,4 +1,5 @@
 # FourLegsWalkingRobo-LinkagesDesign
 
 - Completed in Dec 2020
-- MATLAB Code missing
+- Sorry for the MATLAB Code missing
+- Ppt slides provided
